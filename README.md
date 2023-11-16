@@ -1,4 +1,4 @@
-🌟 Awesome Development Flows 🌟
+<h1 align="center">Awesome Development Flows</h1>
 
 ## Introduction
 
